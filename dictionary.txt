@@ -1,0 +1,26 @@
+algorithm|A step-by-step procedure for solving a problem.
+array|A collection of elements stored in indexed positions.
+binary|A number system that uses only zero and one.
+class|A blueprint for creating objects in object-oriented programming.
+compile|To translate source code into an executable program.
+computer|An electronic device that processes and stores information.
+data|Facts or values that can be processed by a computer.
+debug|To find and fix errors in a program.
+function|A named block of code that performs a specific task.
+graph|A structure made of vertices connected by edges.
+hash|A technique that maps data to a fixed-size value.
+index|A position used to access an element in a collection.
+integer|A whole number without a fractional part.
+mango|mango
+memory|The area where a computer stores data for active use.
+object|An instance of a class containing data and behavior.
+pointer|A variable that stores the address of another value.
+queue|A collection that follows first-in, first-out order.
+recursion|A technique where a function calls itself.
+search|The process of finding a target item in a collection.
+sort|To arrange data in a chosen order.
+stack|A collection that follows last-in, first-out order.
+string|A sequence of characters used to represent text.
+tree|A hierarchical structure made of connected nodes.
+variable|A named location used to store a value.
+vector|A resizable sequence of elements.
